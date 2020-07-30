@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: #aef4b1;
+}
+.blok1 {
+  position: absolute;
+  height: 300px;
+  width: 3000px;
+  left: 0px;
+  top: 0px;
+
+  background: #50b05a;
+}
+.blok2 {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 550px;
+  top: 105px;
+  background: #ffffff;
+  overflow-y: hidden;
+}
+.text1 {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  left: 630px;
+  top: 460px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 59px;
+  color: #000000;
+}
+.text2 {
+  position: absolute;
+  width: 280px;
+  height: 60px;
+  left: 600px;
+  top: 550px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  color: #000000;
+}
+.text3 {
+  position: absolute;
+  width: 698px;
+  height: 364px;
+  left: 350px;
+  top: 615px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  color: #000000;
+}
+.icon1 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 350px;
+  top: 900px;
+}
+.icon2 {
+  position: absolute;
+  width: 97.83px;
+  height: 100px;
+  left: 650px;
+  top: 900px;
+}
+.icon3 {
+  position: absolute;
+  width: 100px;
+  height: 89px;
+  left: 950px;
+  top: 905px;
+}
